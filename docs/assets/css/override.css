@@ -1,0 +1,16 @@
+/* Gentle brand accent + better callouts */
+:root {
+  --mm-accent: #3c86ff; /* tweak to match your app color */
+}
+a, .btn--primary, .masthead__menu-item--cta a { color: var(--mm-accent); }
+.btn--primary { background-color: var(--mm-accent); border-color: var(--mm-accent); }
+.page__title, .archive__item-title { letter-spacing: .1px; }
+
+/* Splash header readability */
+.page__hero--overlay .wrapper { text-shadow: 0 1px 2px rgba(0,0,0,.35); }
+
+/* Card polish on policy lists */
+.page .notice, .page .archive__item { border-radius: 10px; }
+
+/* Footer spacing */
+.site-footer { padding-top: 2rem; }
