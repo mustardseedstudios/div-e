@@ -1,6 +1,48 @@
 title: Div-E
 description: A simple tip calculator by Mustard Seed Studios
-theme: jekyll-theme-cayman
-show_downloads: false
+url: "https://mustardseedstudios.github.io"
+baseurl: "/div-e" 
+
+# Minimal Mistakes
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+minimal_mistakes_skin: "air"
+
+# Build
+markdown: kramdown
+highlighter: rouge
+plugins:
+  - jekyll-include-cache
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# SEO
+logo: /div-e/assets/images/app-icon.png
+author:
+  name: Mustard Seed Studios
+  links:
+    - label: GitHub
+      icon: "fab fa-github"
+      url: "https://github.com/mustardseedstudios/div-e"
+    - label: Website
+      icon: "fas fa-link"
+      url: "https://mustardseedstudios.github.io/div-e/"
+
+# Navigation
 include:
-  - assets/custom.css
+  - _pages
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      classes: wide
+      toc: false
+
+# Footer
+footer:
+  links:
+    - label: Privacy Policy
+      url: /div-e/privacy-policy
+    - label: View on GitHub
+      url: https://github.com/mustardseedstudios/div-e
