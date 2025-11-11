@@ -1,74 +1,100 @@
-# Div-E Privacy Policy
-**Last updated:** November 2025  
+---
+title: Div-E Privacy Policy
+layout: page
+---
 
-Thank you for using **Div-E**, a tip and bill-splitting calculator created by **Mustard Seed Studios**.  
-This Privacy Policy explains how information is handled within the app.
+_Last updated: 2025-11-11_
+
+## Summary
+
+Div-E is a simple tip calculator from **Mustard Seed Studios**.  
+We do not intentionally collect or store personal data on our servers.  
+Settings you change inside the app (theme, accent color, tip presets) are saved on your device.
+
+Div-E shows ads using Google AdMob. AdMob and its partners may collect device and usage data to deliver and measure ads. See **Third-party advertising** below for details and choices.
 
 ---
 
-## 1. Information We Collect
-Div-E does **not** collect, store, or transmit any personally identifiable information (PII).  
-The app runs entirely on your device. Your tip calculations, presets, and appearance settings stay local and are never sent to any external server owned by Mustard Seed Studios.
+## Who we are
+
+**Mustard Seed Studios**  
+Support: open an issue on the GitHub repo or email: `support@mustardseedstudios.example`  
+Website: https://mustardseedstudios.github.io/div-e/
+
+> Replace the email above with your real support email if you have one.
 
 ---
 
-## 2. Third-Party Services
-Div-E displays ads using **Google AdMob**.  
-While Mustard Seed Studios does not have access to or control over the data collected by AdMob, Google may automatically collect certain information for ad delivery and analytics, including:
+## What the app stores on your device
 
-- Device identifiers (such as the advertising ID)  
-- Approximate location (for regional ad relevance)  
-- App usage data related to ad performance and impressions  
+- Appearance settings: theme (system, light, dark), accent color, custom color values  
+- Calculator preferences: tip presets you create or edit, service quality labels, rounding preference  
+- Temporary settings unlocks: five-minute access to edit appearance and presets after viewing a rewarded ad
 
-This data collection is governed by Google’s own privacy and advertising policies.  
-You can review them here:
-
-- [Google AdMob & Partner Policies](https://policies.google.com/technologies/ads)  
-- [How Google Uses Information From Sites or Apps That Use Our Services](https://policies.google.com/technologies/partner-sites)
-
-You can also manage or opt out of personalized ads in your device’s privacy settings:  
-**iOS:** *Settings → Privacy & Security → Tracking* and *Apple Advertising.*
+These values are stored locally on your device using iOS storage (for example `UserDefaults`). Removing the app or resetting iOS settings may clear them.
 
 ---
 
-## 3. Children’s Privacy
-Div-E is intended for general audiences and does not knowingly collect personal information from children under 13 years of age.  
-If you are a parent or guardian and believe your child has interacted with Google’s ad services, you can review Google’s [Family and Child Privacy information](https://families.google.com/familylink/privacy/).
+## What we do **not** collect
+
+- No account creation  
+- No names, emails, or phone numbers  
+- No receipt images or bill contents  
+- No server-side logs tied to a person
 
 ---
 
-## 4. Data Storage and Security
-Div-E does not transmit or store any personal data on external servers.  
-Any information collected by Google AdMob is handled securely under Google’s data protection and compliance frameworks (GDPR, CCPA, etc.).
+## Third-party advertising (Google AdMob)
+
+Div-E uses **Google AdMob** to show ads. AdMob and its partners may collect data to deliver, personalize, and measure ads. Examples include:
+
+- Device identifiers (such as Apple’s advertising identifier if you allow tracking)  
+- App interactions, approximate location, and general device information  
+- Crash or performance data related to ad delivery
+
+Learn more:  
+- Google Privacy & Terms: https://policies.google.com/privacy  
+- How Google uses information from apps: https://policies.google.com/technologies/partner-sites  
+- Ads and cookie technologies: https://policies.google.com/technologies/ads
+
+### Your choices on iOS
+- **Allow tracking:** iOS may ask if you allow tracking across apps and websites. You can change this later in **Settings → Privacy & Security → Tracking**.  
+- **Reset advertising identifier:** In **Settings → Privacy & Security → Apple Advertising** you can limit ad personalization and review Apple’s ad settings.  
+- **Interest-based ads:** Google provides controls for personalized ads. See: https://myadcenter.google.com/ and https://adssettings.google.com/ (availability varies by region).
+
+Div-E does not share your on-device calculator inputs or presets with AdMob.
 
 ---
 
-## 5. Your Choices
-You can limit or disable personalized advertising on your device:
+## Children’s privacy
 
-- **iOS:** *Settings → Privacy & Security → Tracking* → toggle off “Allow Apps to Request to Track.”  
-- **Apple Advertising:** *Settings → Privacy & Security → Apple Advertising* → toggle off “Personalized Ads.”  
-- You may also reset your Advertising Identifier at any time.
+Div-E is not directed to children under the age where consent is required by local law. We do not knowingly collect personal data from children.
 
 ---
 
-## 6. Changes to This Policy
-This Privacy Policy may be updated periodically to reflect app changes or updates to third-party services.  
-The latest version will always be available at the official Mustard Seed Studios website or GitHub Pages link.
+## Data storage and transfers
+
+We do not host user data on our servers. Third-party ad partners may process data on servers located in other countries. Their privacy practices apply to their systems.
 
 ---
 
-## 7. Contact
-If you have any questions about this policy or your privacy within Div-E, please contact:  
+## Third-party links
 
-📧 **mustardseedstudiosapps@gmail.com**
+Div-E may link to external websites. We are not responsible for the privacy practices of other sites or services.
+
+---
+
+## Changes to this policy
+
+We may update this policy as the app or ad requirements change. Material updates will be reflected by the “Last updated” date above.
 
 ---
 
-### Summary
-Div-E does not collect or store any user data.  
-Advertising in the app is provided by Google AdMob, which may collect limited, anonymous usage information in accordance with Google’s privacy policy.
+## Contact
 
----
+Questions about this policy or the app?
+
+- Open an issue on the GitHub repo: https://github.com/mustardseedstudios/div-e  
+- Email: `support@mustardseedstudios.example`
 
 © 2025 Mustard Seed Studios. All rights reserved.
