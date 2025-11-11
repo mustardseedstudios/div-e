@@ -1,3 +1,4 @@
+<link rel="stylesheet" href="./assets/custom.css">
 ---
 title: Div-E Privacy Policy
 layout: page
