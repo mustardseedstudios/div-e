@@ -21,7 +21,6 @@ Div-E shows ads using Google AdMob. AdMob and its partners may collect device an
 Support: open an issue on the GitHub repo or email: `mustardseedstudios+help@proton.me`  
 Website: https://mustardseedstudios.github.io/div-e/
 
-> Replace the email above with your real support email if you have one.
 
 ---
 
