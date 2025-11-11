@@ -18,7 +18,7 @@ Div-E shows ads using Google AdMob. AdMob and its partners may collect device an
 ## Who we are
 
 **Mustard Seed Studios**  
-Support: open an issue on the GitHub repo or email: `support@mustardseedstudios.example`  
+Support: open an issue on the GitHub repo or email: `mustardseedstudios+help@proton.me`  
 Website: https://mustardseedstudios.github.io/div-e/
 
 > Replace the email above with your real support email if you have one.
@@ -95,6 +95,6 @@ We may update this policy as the app or ad requirements change. Material updates
 Questions about this policy or the app?
 
 - Open an issue on the GitHub repo: https://github.com/mustardseedstudios/div-e  
-- Email: `support@mustardseedstudios.example`
+- Email: `mustardseedstudios+help@proton.me`
 
 © 2025 Mustard Seed Studios. All rights reserved.
