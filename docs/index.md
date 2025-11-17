@@ -14,7 +14,7 @@ feature_row:
     excerpt: "Calculate tips and split bills quickly with a simple, focused design."
     icon: "fas fa-bolt"
   - title: "No clutter"
-    excerpt: "A straightforward calculator experience. Optional ads only to unlock appearance editing for 5 minutes."
+    excerpt: "A straightforward calculator experience. No obtrusive ads. Only a banner ad at the bottom and optional ads only to unlock appearance editing options."
     icon: "fas fa-broom"
   - title: "Customizable"
     excerpt: "Pick light/dark, choose an accent color, and edit the preset tip buttons."
