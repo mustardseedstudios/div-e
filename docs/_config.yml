@@ -3,8 +3,6 @@ description: A simple tip calculator by Mustard Seed Studios
 url: "https://mustardseedstudios.github.io"
 baseurl: "/div-e"
 
-logo: /assets/images/app-icon.png 
-
 # Minimal Mistakes
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 minimal_mistakes_skin: "air"
@@ -18,7 +16,6 @@ plugins:
   - jekyll-sitemap
 
 # SEO
-logo: /div-e/assets/images/app-icon.png
 author:
   name: Mustard Seed Studios
   links:
