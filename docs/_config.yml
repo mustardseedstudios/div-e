@@ -1,7 +1,9 @@
 title: Div-E
 description: A simple tip calculator by Mustard Seed Studios
 url: "https://mustardseedstudios.github.io"
-baseurl: "/div-e" 
+baseurl: "/div-e"
+
+logo: /assets/images/app-icon.png 
 
 # Minimal Mistakes
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
