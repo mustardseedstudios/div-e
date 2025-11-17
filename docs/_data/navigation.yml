@@ -1,7 +1,7 @@
 main:
   - title: Home
-    url: /div-e/
+    url: /
   - title: Privacy Policy
-    url: /div-e/privacy-policy
+    url: /privacy-policy
   - title: GitHub
     url: https://github.com/mustardseedstudios/div-e
