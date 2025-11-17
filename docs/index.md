@@ -8,7 +8,7 @@ header:
     - label: "View on GitHub"
       url: "https://github.com/mustardseedstudios/div-e"
     - label: "Privacy Policy"
-      url: "/div-e/privacy-policy"
+      url: "/privacy-policy"
 feature_row:
   - title: "Fast & friendly"
     excerpt: "Calculate tips and split bills quickly with a simple, focused design."
