@@ -1,10 +1,12 @@
-<link rel="stylesheet" href="./assets/custom.css">
 ---
 title: Privacy Policy
+layout: single
 excerpt: How Div-E handles your data and advertising
 toc: true
 toc_sticky: true
 ---
+
+<link rel="stylesheet" href="{{ '/assets/custom.css' | relative_url }}">
 
 _Last updated: {{ "now" | date: "%Y-%m-%d" }}_
 
