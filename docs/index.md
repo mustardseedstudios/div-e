@@ -21,12 +21,4 @@ feature_row:
     icon: "fas fa-sliders-h"
 ---
 
-<p align="center">
-  <img src="{{ '/assets/images/app-icon.png' | relative_url }}"
-       alt="Div-E app icon"
-       width="160"
-       height="160"
-       style="border-radius: 32px;">
-</p>
-
 {% include feature_row %}
