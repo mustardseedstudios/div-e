@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://mustardseedstudios.github.io/div-e/sitemap.xml
